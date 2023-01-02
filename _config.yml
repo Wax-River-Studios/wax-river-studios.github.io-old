@@ -1,15 +1,15 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Wax River Stuiods
+subtitle: Film and Games
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: wax-river-studios.github.io # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+city: Austin
+state: TX
+zip_code: 78751
 country: United States of America
 phone: (716) 555-5555
 
@@ -22,12 +22,11 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/Wax-River-Studios
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
   Instagram:
   LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  Twitter: https://twitter.com/lizfischer0
   Facebook:
   Slack:
 
