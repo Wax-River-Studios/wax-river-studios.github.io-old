@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, we're Wax River'
+landing-title: "Hi, we're Wax River"
 description: null
 image: null
 author: null
