@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Films
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
