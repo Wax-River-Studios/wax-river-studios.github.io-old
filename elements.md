@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Films
-image: assets/images/pic01.jpg
+image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
